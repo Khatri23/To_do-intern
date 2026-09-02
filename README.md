@@ -47,7 +47,6 @@ Health check: `GET /api/health`
 
 ```bash
 cd frontend
-cp .env.example .env      # points VITE_API_URL at your backend
 npm install
 npm run dev                # starts on http://localhost:5173
 ```
