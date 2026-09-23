@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "Over-ear wireless headphones with noise isolation and built-in microphone.",
+    "price": 49.99,
+    "stock": 25,
+    "imageURL": "https://example.com/images/bluetooth-headphones.jpg",
+    "Category": 1
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "description": "RGB mechanical keyboard with blue switches and USB connectivity.",
+    "price": 69.99,
+    "stock": 18,
+    "imageURL": "https://example.com/images/mechanical-keyboard.jpg",
+    "Category": 1
+  },
+  {
+    "id": 3,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI and long battery life.",
+    "price": 24.99,
+    "stock": 40,
+    "imageURL": "https://example.com/images/wireless-mouse.jpg",
+    "Category": 1
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "description": "Smart watch with fitness tracking, heart rate monitoring and notifications.",
+    "price": 89.99,
+    "stock": 15,
+    "imageURL": "https://example.com/images/smart-watch.jpg",
+    "Category": 1
+  },
+  {
+    "id": 5,
+    "name": "USB-C Power Bank",
+    "description": "10000mAh portable power bank with fast USB-C charging.",
+    "price": 34.99,
+    "stock": 30,
+    "imageURL": "https://example.com/images/power-bank.jpg",
+    "Category": 1
+  },
+  {
+    "id": 6,
+    "name": "Basmati Rice",
+    "description": "Premium long-grain basmati rice suitable for everyday cooking.",
+    "price": 12.99,
+    "stock": 50,
+    "imageURL": "https://example.com/images/basmati-rice.jpg",
+    "Category": 2
+  },
+  {
+    "id": 7,
+    "name": "Organic Green Tea",
+    "description": "Organic green tea leaves with a refreshing natural flavor.",
+    "price": 8.49,
+    "stock": 35,
+    "imageURL": "https://example.com/images/green-tea.jpg",
+    "Category": 2
+  },
+  {
+    "id": 8,
+    "name": "Peanut Butter",
+    "description": "Creamy peanut butter made from roasted peanuts.",
+    "price": 6.99,
+    "stock": 28,
+    "imageURL": "https://example.com/images/peanut-butter.jpg",
+    "Category": 2
+  },
+  {
+    "id": 9,
+    "name": "Olive Oil",
+    "description": "Extra virgin olive oil suitable for cooking and salad dressing.",
+    "price": 15.99,
+    "stock": 22,
+    "imageURL": "https://example.com/images/olive-oil.jpg",
+    "Category": 2
+  },
+  {
+    "id": 10,
+    "name": "Chocolate Cookies",
+    "description": "Crunchy chocolate cookies made with cocoa and chocolate chips.",
+    "price": 4.99,
+    "stock": 45,
+    "imageURL": "https://example.com/images/chocolate-cookies.jpg",
+    "Category": 2
+  },
+  {
+    "id": 11,
+    "name": "Cotton T-Shirt",
+    "description": "Comfortable 100% cotton casual T-shirt suitable for everyday wear.",
+    "price": 19.99,
+    "stock": 60,
+    "imageURL": "https://example.com/images/cotton-tshirt.jpg",
+    "Category": 3
+  },
+  {
+    "id": 12,
+    "name": "Denim Jeans",
+    "description": "Classic blue denim jeans with a comfortable regular fit.",
+    "price": 39.99,
+    "stock": 35,
+    "imageURL": "https://example.com/images/denim-jeans.jpg",
+    "Category": 3
+  },
+  {
+    "id": 13,
+    "name": "Hooded Sweatshirt",
+    "description": "Warm cotton-blend hoodie with front pocket and adjustable drawstring.",
+    "price": 44.99,
+    "stock": 20,
+    "imageURL": "https://example.com/images/hoodie.jpg",
+    "Category": 3
+  },
+  {
+    "id": 14,
+    "name": "Casual Sneakers",
+    "description": "Lightweight casual sneakers designed for comfortable daily use.",
+    "price": 59.99,
+    "stock": 24,
+    "imageURL": "https://example.com/images/sneakers.jpg",
+    "Category": 3
+  },
+  {
+    "id": 15,
+    "name": "Winter Jacket",
+    "description": "Insulated winter jacket designed to provide warmth in cold weather.",
+    "price": 79.99,
+    "stock": 12,
+    "imageURL": "https://example.com/images/winter-jacket.jpg",
+    "Category": 3
+  },
+  {
+    "id": 16,
+    "name": "A4 Notebook",
+    "description": "A4 ruled notebook with 200 pages for school, college and office use.",
+    "price": 5.99,
+    "stock": 70,
+    "imageURL": "https://example.com/images/a4-notebook.jpg",
+    "Category": 4
+  },
+  {
+    "id": 17,
+    "name": "Ballpoint Pen Set",
+    "description": "Pack of 10 smooth-writing blue ballpoint pens.",
+    "price": 3.99,
+    "stock": 100,
+    "imageURL": "https://example.com/images/ballpoint-pens.jpg",
+    "Category": 4
+  },
+  {
+    "id": 18,
+    "name": "Highlighter Set",
+    "description": "Set of 6 colorful highlighters with quick-drying ink.",
+    "price": 6.49,
+    "stock": 55,
+    "imageURL": "https://example.com/images/highlighter-set.jpg",
+    "Category": 4
+  },
+  {
+    "id": 19,
+    "name": "Desk Organizer",
+    "description": "Multi-compartment desk organizer for pens, pencils and office supplies.",
+    "price": 11.99,
+    "stock": 32,
+    "imageURL": "https://example.com/images/desk-organizer.jpg",
+    "Category": 4
+  },
+  {
+    "id": 20,
+    "name": "Stapler",
+    "description": "Compact metal stapler suitable for home, school and office use.",
+    "price": 7.99,
+    "stock": 40,
+    "imageURL": "https://example.com/images/stapler.jpg",
+    "Category": 4
+  }
+]
